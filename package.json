@@ -1,0 +1,28 @@
+{
+  "name": "nano-mvc",
+  "version": "0.7.0",
+  "description": "nano JavaScript MVC framework, jQuery and requireJS dependent.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infojav/nanoMVC.git"
+  },
+  "keywords": [
+    "nanoMVC",
+    "micro",
+    "framework"
+  ],
+  "author": "Javier Perea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infojav/nanoMVC/issues"
+  },
+  "homepage": "https://github.com/infojav/nanoMVC#readme",
+  "dependencies": {
+    "jquery": "^1.9.1",
+    "requirejs": "^2.1.20"
+  },
+  "devDependencies": {
+    "jasmine": "^2.3.2"
+  }
+}
